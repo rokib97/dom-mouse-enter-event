@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 40px;
+}
+.container img {
+  margin-left: 400px;
+  width: 300px;
+}
